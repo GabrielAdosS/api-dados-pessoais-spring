@@ -30,5 +30,5 @@ Todo o design da API, estrutura e lógica de negócios são baseados no reposit�
 
 **1. Clone o repositório:**
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd [NOME_DO_REPOSITORIO]
+git clone https://github.com/GabrielAdosS/api-dados-pessoais-spring
+cd api-dados-pessoais-spring
