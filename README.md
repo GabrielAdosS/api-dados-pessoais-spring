@@ -6,7 +6,7 @@
 
 Este repositório contém o código de uma API RESTful desenvolvida com Spring Boot, focada no gerenciamento de dados pessoais.
 
-O objetivo principal deste projeto é **acadêmico**: ele serve como um registro do meu processo de aprendizado ao acompanhar as aulas do Professor **[Nome do Professor]** na disciplina de **[Nome da Disciplina ou Matéria]**. O código aqui presente é uma replicação "linha por linha" do conteúdo ensinado, visando solidificar o conhecimento em desenvolvimento backend com o ecossistema Spring.
+O objetivo principal deste projeto é **acadêmico**: ele serve como um registro do meu processo de aprendizado ao acompanhar as aulas da disciplina de **Desenvolvimento de sistemas web**. O código aqui presente é uma replicação "linha por linha" do conteúdo ensinado, visando solidificar o conhecimento em desenvolvimento backend com o ecossistema Spring.
 
 ## 🎓 Fonte Original e Créditos
 
