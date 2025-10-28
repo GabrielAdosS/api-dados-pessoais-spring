@@ -9,5 +9,4 @@ public class ApiDadosPessoaisSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ApiDadosPessoaisSpringApplication.class, args);
 	}
-
 }
