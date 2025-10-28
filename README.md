@@ -12,19 +12,17 @@ O objetivo principal deste projeto é **acadêmico**: ele serve como um registro
 
 Todo o design da API, estrutura e lógica de negócios são baseados no repositório original do professor:
 
-* **Professor:** [Nome do Professor]
-* **Repositório Original:** [Link para o repositório do seu professor no GitHub]
-
+* **Professor:** Fernando Tsuda
+* **Repositório Original:** https://github.com/ftsuda-senac/tads-dsw3a-2025-2
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Java [versão, ex: 17]
-* **Framework:** Spring Boot [versão]
-* **Gerenciador de Pacotes:** [Maven ou Gradle]
-* **Banco de Dados:** [H2, PostgreSQL, MySQL, etc.]
+* **Linguagem:** Java 21
+* **Framework:** Spring Boot 3.5.7
+* **Gerenciador de Pacotes:** Maven
+* **Banco de Dados:** H2
 * **ORM:** Spring Data JPA / Hibernate
-* **Outros:** [Spring Security, Lombok, etc. - adicione conforme for usando]
 
 ---
 
