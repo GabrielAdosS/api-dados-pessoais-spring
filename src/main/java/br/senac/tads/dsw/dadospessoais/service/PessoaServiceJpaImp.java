@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 import br.senac.tads.dsw.dadospessoais.dto.PessoaDto;
 import br.senac.tads.dsw.dadospessoais.entity.PessoaEntity;
 import br.senac.tads.dsw.dadospessoais.repository.PessoaRepository;
+import br.senac.tads.dsw.dadospessoais.service.interfaces.PessoaService;
 
 @Service
 public class PessoaServiceJpaImp implements PessoaService{

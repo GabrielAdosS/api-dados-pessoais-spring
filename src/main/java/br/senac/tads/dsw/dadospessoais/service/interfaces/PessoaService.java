@@ -1,4 +1,4 @@
-package br.senac.tads.dsw.dadospessoais.service;
+package br.senac.tads.dsw.dadospessoais.service.interfaces;
 
 import java.util.List;
 

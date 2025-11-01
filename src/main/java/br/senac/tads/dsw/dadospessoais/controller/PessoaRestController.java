@@ -23,7 +23,7 @@ import org.springframework.web.server.ResponseStatusException;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import br.senac.tads.dsw.dadospessoais.dto.PessoaDto;
-import br.senac.tads.dsw.dadospessoais.service.PessoaService;
+import br.senac.tads.dsw.dadospessoais.service.interfaces.PessoaService;
 import jakarta.validation.Valid;
 
 @RestController
